@@ -1,0 +1,4 @@
+name = "winter-product-requirements"
+prefix = "preq"
+description = "Product Requirements Framework — rules for product content in a requirements repo — read when working in or changing a product-focused requirements repo, or resolving a cited `preq:` id."
+load = "lazy"
